@@ -1,3 +1,12 @@
+# Name: Max O'Leary, Zack Mcquade, Kevin Duritsch
+# email: olearymw@mail.uc.edu
+# Assignment Title: Final Project
+# Course: IS 4010
+# Semester/Year: Spring 2023
+# Brief Description: This project demonstrates that we can decrypt text files using Python
+# Citations:
+# Anything else that's relevant:  Thanks for a great semester!
+
 from PIL import Image, ImageFilter, ImageDraw, ImageFont
 import numpy as np
 import pandas as pd
